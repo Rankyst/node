@@ -1,6 +1,6 @@
-*test*message*timeout_throw.js:*
-  undefined_reference_error_maker;
-  ^
+timers.js:*
+    throw ex;
+    ^
 ReferenceError: undefined_reference_error_maker is not defined
     at Timeout._onTimeout (*test*message*timeout_throw.js:*:*)
     at ontimeout (timers.js:*:*)
